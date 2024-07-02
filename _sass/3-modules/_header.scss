@@ -160,13 +160,13 @@
     &.dropdown {
       position: relative;
 
-      &:hover {
-        .dropdown-menu {
-          opacity: 1;
-          visibility: visible;
-          transform: translate3d(0,0,0);
-        }
-      }
+      // &:hover {
+      //   .dropdown-menu {
+      //     opacity: 1;
+      //     visibility: visible;
+      //     transform: translate3d(0,0,0);
+      //   }
+      // }
 
       .arrow-down {
         vertical-align: middle;
